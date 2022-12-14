@@ -1,0 +1,11 @@
+.sg{
+    font-size: 2em;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 20px;
+}
+ul{
+    font-weight: 200;
+    text-align: left;
+    list-style: circle;
+}
